@@ -1,0 +1,12 @@
+## **Dataset**
+
+The dataset used for this project is available in the `dataset.csv` file in the project folder. This file contains the user behavior data used to train the model.
+
+You can also access a sample of the dataset in the table below:
+
+| Phishing Emails Clicked | Software Updates (per month) | Antivirus Use | USB Devices Used | Infection Risk (Target) |
+|-------------------------|------------------------------|---------------|------------------|-------------------------|
+| 5                       | 2                            | Yes           | 1                | 0.2                     |
+| 10                      | 1                            | No            | 3                | 0.8                     |
+| 2                       | 5                            | Yes           | 0                | 0.1                     |
+| 15                      | 0                            | No            | 5                | 0.9                     |
